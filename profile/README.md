@@ -1,4 +1,4 @@
 # hypertidy
 
-hypertidy.org
+[hypertidy.org](https://hypertidy.org)
 
